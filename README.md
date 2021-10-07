@@ -1,4 +1,3 @@
-ฆวย
 #include < stdio.h >
 main( )
 {
