@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 #include < stdio.h >
 main( )
 {
