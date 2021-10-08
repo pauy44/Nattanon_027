@@ -6,7 +6,7 @@ main( )
 {
         printf ("hello,Nattanon Pranee\n");
 }
->>>>>>> fa9bcbffa7e930bd0188d46b80964acea6cc0c22
+
 =======
 #include <stdio.h>
 int main ()
@@ -18,4 +18,4 @@ int main ()
 	printf("Goodbye\n");
 }
 
->>>>>>> fff416e7c9bb2e2acfcbdab0330b4ef2c6f61574
+
